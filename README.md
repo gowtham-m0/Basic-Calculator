@@ -10,6 +10,7 @@ This is a Simple Calculator To Perform Basic Operations Like-
 6.To Get Root of a Number
 7.To Get Square of a Number
 8.To Get Cube of a Number 
+And Many More Operation are up to come
 
 Operation Like Addition,Subraction,Multiplication Can Take Numbers Upto 5!,
 Whereas Operation Like Division,Modulus,Root,Square,Cube Can Take Only Two or One Input!
